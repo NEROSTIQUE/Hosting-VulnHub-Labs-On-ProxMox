@@ -1,0 +1,1 @@
+This repository documents a concise, practical workflow for hosting VulnHub labs on Proxmox VE. It covers extracting OVA/VMDK files, converting disks to QCOW2, creating and configuring VMs (GUI & CLI), networking options, and common troubleshooting tips — ideal for learners and pentesters building safe, reproducible lab environments.
